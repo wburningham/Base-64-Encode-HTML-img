@@ -1,7 +1,7 @@
 #Description
 This sciprt will parse an HTML file and base6e encode the images referenced in the img tags and include the data.
 
-#Furture Features
+#Future Features
 - accept parameters
 - validate parameters
 - specify output path
